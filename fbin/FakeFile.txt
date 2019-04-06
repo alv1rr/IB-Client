@@ -1,0 +1,2 @@
+This file needs to be removed.
+But originally empty folder with a name "fbin" should be present in the project directory.
