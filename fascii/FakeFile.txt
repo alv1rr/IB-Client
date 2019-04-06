@@ -1,2 +1,2 @@
 This file needs to be removed.
-But originally empty folder "fascii" should be present in the project.
+But originally empty folder with a name "fascii" should be present in the project directory.
